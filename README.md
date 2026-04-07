@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👾 Igor Lyra
+**` Desenvolvedor em Formação `**
 
-<!--
-**lyrinha/lyrinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Igor Lyra, tenho 19 anos e sou natural do Rio de Janeiro. Estou cursando Análise e Desenvolvimento de Sistemas na IBMR EAD. Sou apaixonado por tecnologia e estou sempre criando projetos para evoluir como desenvolvedor.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.instagram.com/lyranha_/">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram" width="50" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lyranha/">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin" width="50" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:igorlyra04@gmail.com">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail" width="50" height="50">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    alt="JAVA"
+    title="JAVA" 
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+
+---
+
+## Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyrinha&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyrinha&layout=compact&theme=dark"/>
+</div>
