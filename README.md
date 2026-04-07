@@ -27,11 +27,4 @@ Me chamo Igor Lyra, tenho 19 anos e sou natural do Rio de Janeiro. Estou cursand
     width="50px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
----
 
-## Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyrinha&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyrinha&layout=compact&theme=dark"/>
-</div>
