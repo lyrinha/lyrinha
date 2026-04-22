@@ -30,3 +30,4 @@ Me chamo Igor Lyra, tenho 19 anos e sou natural do Rio de Janeiro. Estou cursand
 <br>
 
 <img src="https://raw.githubusercontent.com/lyrinha/lyrinha/output/snake.svg" alt="Snake animation" />
+
